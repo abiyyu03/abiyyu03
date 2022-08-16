@@ -2,7 +2,7 @@
 title: "Perjalanan Kenal Dunia IT"
 date: 2022-08-16T10:16:28+07:00
 tags: ["ceritaku"]
-draft: false
+draft: true
 ---
 **Awalan**
 
@@ -21,3 +21,5 @@ Sewaktu jadi pengurus OSIS, banyak kegiatan yang ku ikuti, salah satu yang berke
 **Mulai2 ngoding**
 
 Di tahun ketiga aku duduk dibangku SMP, antusias ku terhadap dunia IT semakin besar, terutama di dunia programming. IDE pertamaku adalah Micrososft visual basic 2006. Tidak lama, aku upgrade ke Microsoft visual basic.NET. Banyak buku yang ku beli untuk mendalami dunia desktop programming ini. Walaupun kata guru IT ku sih, VB udah jadul :P. Banyak aplikasi yang kubuat dengan Visual Basic. Dengan bermodal internet, buku dan copy-paste :D, lebih dari 5 aplikasi yang sukses ku compile. 
+
+bersambung...

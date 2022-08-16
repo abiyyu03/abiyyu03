@@ -1,7 +1,7 @@
 ---
 title: "Tips-tips Public Speaking"
 date: 2022-08-16T10:16:28+07:00
-tags: ["self-development"]
+tags: ["self-development","tips"]
 draft: false
 ---
 ---

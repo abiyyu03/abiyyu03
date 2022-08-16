@@ -10,8 +10,8 @@ enableRobotsTXT: true
 menu:
   main:
   - identifier: archive
-    name: Blog
-    title: Blog
+    name: Archive
+    title: Archive
     url: /posts/
     weight: 0
   - identifier: about
@@ -19,21 +19,21 @@ menu:
     title: Tentang saya
     url: /about/
     weight: 0
-  - identifier: pengembangan-diri
-    name: Pengembangan Diri
-    title: Pengembangan Diri
-    url: /tags/self-development/
-    weight: 0
-  - identifier: ngoding
-    name: Ngoding
-    title: Ngoding
-    url: /tags/ngoding/
-    weight: 0
-  - identifier: ceritaku
-    name: Ceritaku
-    title: Ceritaku
-    url: /tags/ceritaku/
-    weight: 0
+  # - identifier: pengembangan-diri
+  #   name: Pengembangan Diri
+  #   title: Pengembangan Diri
+  #   url: /tags/self-development/
+  #   weight: 0
+  # - identifier: ngoding
+  #   name: Ngoding
+  #   title: Ngoding
+  #   url: /tags/ngoding/
+  #   weight: 0
+  # - identifier: ceritaku
+  #   name: Ceritaku
+  #   title: Ceritaku
+  #   url: /tags/ceritaku/
+  #   weight: 0
 
 params:
   author: "Abiyyu Cakra"

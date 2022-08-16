@@ -1,6 +1,6 @@
 languageCode: "en-us"
 baseUrl: ""
-title: "Anubis"
+title: "Abiyyu Cakra's blog"
 theme: "anubis"
 paginate: 10
 disqusShortname: "yourdiscussshortname"
@@ -13,6 +13,11 @@ menu:
     name: Archive
     title: Archive
     url: /posts/
+    weight: 0
+  - identifier: about
+    name: About
+    title: About
+    url: /about/
     weight: 0
 
 params:

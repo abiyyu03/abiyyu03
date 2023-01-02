@@ -1,0 +1,13 @@
+belajar js dasar
+1. Berkenalan dengan javascript
+2. variabel : let, const, var
+3. tipe data
+4. operator matematika dasar
+5. operator perbandingan
+6. operator logika
+7. conditional statement
+8. switch statement
+9. perulangan atau looping
+10. function 
+11. function expression
+12. arrow function

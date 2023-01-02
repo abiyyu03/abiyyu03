@@ -1,7 +1,6 @@
 languageCode: "en-us"
 baseUrl: ""
 title: "Abiyyu Cakra"
-description: "Web Enthusiast | Longlife Learner"
 theme: "anubis"
 paginate: 10
 #disqusShortname: "yourdiscussshortname"
@@ -19,6 +18,11 @@ menu:
     name: Tentang saya
     title: Tentang saya
     url: /about/
+    weight: 0
+  - identifier: projek
+    name: Projek
+    title: Projek
+    url: /projek/
     weight: 0
   # - identifier: pengembangan-diri
   #   name: Pengembangan Diri

@@ -8,7 +8,13 @@ HTML, CSS
 PHP, JavaScript (ES6 dan NodeJS)
 
 ## Web Framework
-Laravel, Lumen, ExpressJS
+Laravel, Lumen, ExpressJS, VueJS
+
+## Library JavaScript
+jQuery
+
+## Database
+MySQL
 
 ## Lainnya
-Linux
+Linux, 

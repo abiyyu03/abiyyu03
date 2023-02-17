@@ -9,10 +9,10 @@ enableRobotsTXT: true
 
 menu:
   main:
-  - identifier: archive
-    name: Archive
-    title: Archive
-    url: /posts/
+  - identifier: catatanku
+    name: Catatanku
+    title: Catatanku
+    url: /catatanku/
     weight: 0
   - identifier: about
     name: Tentang saya

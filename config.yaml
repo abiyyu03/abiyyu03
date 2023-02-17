@@ -22,12 +22,12 @@ menu:
   - identifier: projek
     name: Projek
     title: Projek
-    url: /projek/
+    url: /projects/
     weight: 0
   - identifier: keahlian
     name: Keahlian
     title: keahlian
-    url: /keahlian/
+    url: /skills/
     weight: 0
   # - identifier: pengembangan-diri
   #   name: Pengembangan Diri

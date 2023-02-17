@@ -29,6 +29,11 @@ menu:
     title: keahlian
     url: /keahlian/
     weight: 0
+  - identifier: pengalaman
+    name: Pengalaman
+    title: pengalaman
+    url: /pengalaman/
+    weight: 0
   # - identifier: pengembangan-diri
   #   name: Pengembangan Diri
   #   title: Pengembangan Diri

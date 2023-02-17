@@ -9,7 +9,7 @@ enableRobotsTXT: true
 
 menu:
   main:
-  - identifier: catatanku
+  - identifier: archive
     name: Catatanku
     title: Catatanku
     url: /catatanku/

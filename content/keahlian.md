@@ -1,11 +1,8 @@
 # Keahlian
 <!-- Daftar Projek yang pernah saya kerjakan -->
 ---
-## Web Dasar
-HTML, CSS
-
-## Bahasa Pemrograman
-PHP, JavaScript (ES6 dan NodeJS)
+## Bahasa
+HTML, CSS, PHP, JavaScript (ES6 dan NodeJS), Python (Basic)
 
 ## Web Framework
 Laravel, Lumen, ExpressJS, VueJS
@@ -17,4 +14,4 @@ jQuery
 MySQL
 
 ## Lainnya
-Linux, 
+Linux

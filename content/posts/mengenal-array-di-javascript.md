@@ -1,5 +1,5 @@
 ---
-title: "Mengenal Array Di Javascript"
+title: "Mengenal Array Di Javascript Bagian 1"
 date: 2022-08-22T10:50:31+07:00
 tags: ["javascript","programming"]
 draft: false
@@ -15,8 +15,10 @@ Photo by Viktor Talashuk from unsplash
 
 ## Penerapan Array Di Javascript -->
 
+
 Artikel kali ini akan membahas salah satu struktur data yang umum digunakan, yaitu Array. Kita juga akan mengenal lebih dalam tentang istilah dan konsep array.
 
+## Pengertian Array
 Array adalah salah satu jenis struktur data yang menyimpan sekelompok nilai. Array dapat menyimpan lebih dari satu nilai dengan tipe data yang berbeda-beda. Untuk menuliskan Array, kita perlu menambahkan tanda ```[]``` sebagai pembungkus nilai Array.
 ```js
 //contoh array
@@ -30,8 +32,6 @@ Supaya lebih mudah memahami, lihatlah contoh array dibawah ini :
 ```js
 ['satu','dua','tiga']
 ```
-penjelasan :
-
 index dari nilai **satu** adalah **0**
 
 index dari nilai **dua** adalah **1**
@@ -43,7 +43,7 @@ Angka Index diibaratkan sebagai identitas yang mewakili nilai suatu nilai array.
 ### Menuliskan Array di Javascript
 
 Sebagai contoh, kita akan menuliskan nama-nama hewan didalam sebuah array
-```
+```js
 ['kucing','kelinci','kuda','sapi']
 ```
 
@@ -53,7 +53,7 @@ Dalam penerapannya, biasanya array akan dimasukan kedalam sebuah variabel atau k
 const namaHewan = ['kucing','kelinci','kuda','sapi']
 ```
 
-Pertanyaan berikutnya, bagaimana kita mengambil salah satu atau beberapa nilai di dalam array ?, misalnya kita ingin mengambil hewan yang bernama kucing. maka caranya adalah dengan mengakses index dari element yang akan kita ambil nilainya. seperti yang kita tahu sebelumnya, bahwa index array dimulai dari angka 0. Dan kita tahu bahwa element 'kucing' berada pada index 0, maka kita bisa menampilkan element kucing dengan cara :
+Bagaimana jika kita ingin mengambil salah satu atau beberapa nilai di dalam array ?, misalnya kita ingin mengambil hewan yang bernama kucing. maka caranya adalah dengan mengakses index dari element yang akan kita ambil nilainya. seperti yang kita tahu sebelumnya, bahwa index array dimulai dari angka 0. Dan kita tahu bahwa element 'kucing' berada pada index 0, maka kita bisa menampilkan element kucing dengan cara :
 ```js
 namaHewan[0]
 ```

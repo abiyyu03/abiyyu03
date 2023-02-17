@@ -9,15 +9,15 @@ enableRobotsTXT: true
 
 menu:
   main:
-  - identifier: archieve
-    name: Catatanku
-    title: Catatanku
-    url: /posts/
-    weight: 0
   - identifier: about
     name: Tentang saya
     title: Tentang saya
     url: /about/
+    weight: 0
+  - identifier: archieve
+    name: Catatanku
+    title: Catatanku
+    url: /posts/
     weight: 0
   - identifier: projek
     name: Projek
@@ -47,9 +47,9 @@ menu:
 
 params:
   author: "Abiyyu Cakra"
-  email: abiyyu@example.org # used for microformats
+  email: anotheriyyu29@gmail.com # used for microformats
   avatar: "/images/abiyyu.jpeg" # used for microformats
-  description: ""
+  description: "Seorang freelancer sekaligus mahasiswa semester 4 di salah satu kampus di Depok, Jawa Barat. Sudah nyemplung di dunia web programming sejak SMK kelas 3. Senang dengan teknologi web, Internet of Things (IoT) dan Open Source. "
   # Uncomment if you need this
   # images:
   #   - images/og-featured.png # relative path to "static" directory

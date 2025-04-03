@@ -1,3 +1,3 @@
 # Hi, I'm Abiyyu Cakra 👋
 
-I love to learn and build something useful with code :)
+Love to learn and build something impactful with code :)
